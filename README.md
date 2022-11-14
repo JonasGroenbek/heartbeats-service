@@ -1,4 +1,4 @@
-[![CircleCI]()
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/JonasGroenbek/heartbeats-service/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/JonasGroenbek/heartbeats-service/tree/main)
 
 #### Idea
 
